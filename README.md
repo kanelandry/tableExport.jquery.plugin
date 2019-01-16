@@ -1,3 +1,5 @@
+For the How-To and the demo, go here: https://w3lessons.info/export-html-table-to-excel-csv-json-pdf-png-using-jquery
+
 tableExport.jquery.plugin
 =========================
 
